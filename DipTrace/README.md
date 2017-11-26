@@ -1,6 +1,6 @@
 DipTrace Components
 
-Arduino-Pro-Mini (3 pattern)
+Arduino-Pro-Mini (3 patterns)
 
 nRF24L01
 
